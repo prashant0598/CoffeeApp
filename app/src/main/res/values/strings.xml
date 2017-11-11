@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Just Java Coffee App</string>
+    <string name="textButtonMinus">-</string>
+    <string name="textName">Name: </string>
+    <string name="textEditViewHint">Prasoon Birla</string>
+    <string name="textTextViewQuantity">Quantity</string>
+    <string name="textTextViewQuantityDisplay">0</string>
+    <string name="textButtonPlus">+</string>
+    <string name="OrderSummary">Order Summary</string>
+    <string name="textCheckBoxWhippedCream">Whipped Cream</string>
+    <string name="textViewToppings">Toppings..</string>
+    <string name="textCheckBoxChocolate">Chocolate</string>
+    <string name="ORDER">ORDER</string>
+    <string name="SendBill">SendBill</string>
+    <string name="Rs.0">Rs. 0.</string>
+</resources>
