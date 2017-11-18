@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="ORDER">Kramamāṁ</string>
+    <string name="OrderSummary">Ōrḍara sārānśa</string>
+    <string name="Rs.0">રૂ. 0</string>
+    <string name="SendBill">Bila mōkalō</string>
+    <string name="textButtonMinus">-</string>
+    <string name="textButtonPlus">+</string>
+    <string name="textCheckBoxChocolate">Chocolate</string>
+    <string name="textCheckBoxWhippedCream">Whipped Cream</string>
+    <string name="textEditViewHint">Prasoon Birla</string>
+    <string name="textName">Nama</string>
+    <string name="textTextViewQuantity">Jaththo</string>
+    <string name="textTextViewQuantityDisplay">0</string>
+    <string name="textViewToppings">ટોપિંગ</string>
+</resources>
