@@ -12,5 +12,7 @@
 <img src="https://github.com/prashant0598/CoffeeApp/blob/master/ScreenShots/Screenshot_20171111-170620(1).png" width="400" height="790">
 <img src="https://github.com/prashant0598/CoffeeApp/blob/master/ScreenShots/Screenshot_20171111-170553.png" width="400" height="790">
 
+## License
+   [MIT](https://prashant0598.mit-license.org)
 
  
